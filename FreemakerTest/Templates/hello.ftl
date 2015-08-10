@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Hello</title>
+        <body>
+            <h1>Welcome${user}</h1>
+            <p>Product</p>
+            <p>${latestProduct.url}</p>
+            <p>${latestProduct.name}</p>
+        </body>
+    </head>
+</html>
